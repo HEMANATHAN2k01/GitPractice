@@ -1,3 +1,9 @@
-.title{
-    text-align: center;
+* {
+  background-color: black;
+  color: white;
+}
+
+.title {
+  text-align: center;
+  text-shadow: 1px 1px 2px white, 5px 1px 2px red, 10px 5px 2px blue;
 }
